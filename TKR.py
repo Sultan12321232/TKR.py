@@ -1,5 +1,3 @@
-#SC OWNER_______________TKR
-
 from ast import Pass
 from os import name, path
 import os,base64,zlib,pip,urllib
